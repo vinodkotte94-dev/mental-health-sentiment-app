@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 streamlit
 scikit-learn
+=======
+streamlit
+scikit-learn
+>>>>>>> f666e1dc816c1ba59ea29972c59f48f2795714c8
 pandas
